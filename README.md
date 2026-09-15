@@ -72,9 +72,15 @@ More libraries coming..
    3. Practice NumPy fundamentals in `numpy/Chapter1/`
    4. Master Pandas using `pandas/study_guide.md` and `Practice.ipynb`
 
+
+
+4. **Download PDF extension**
+  - For Viewing notes You need to install PDF Extension in IDE.
+
 ## Requirements
 
-- Python 3.8+
+- Python 3.8+ or Any version Which You are confortable with.
 - NumPy
 - Pandas
 - Jupyter Notebook
+
